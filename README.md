@@ -1,0 +1,3 @@
+# firefox-hide-reddit-username
+This extension aims to keep your privacy when scrolling to Reddit in public.
+Someone could have the idea to look your profile...
